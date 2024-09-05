@@ -65,3 +65,13 @@ The analysis focuses on three main aspects: sales overview, average price analys
 * 1. MS OFFICE / EXCEL
 * 2. POWER BI
 
+# SCREENSHOTS
+
+**Home**
+![alt text](image.png)
+
+**Details**
+![alt text](image-1.png)
+
+# VIDEO DEMO
+![Video demo](car_sales_dashboard.mp4)
